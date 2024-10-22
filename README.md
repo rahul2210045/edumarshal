@@ -1,27 +1,12 @@
 
-# edumarshal
+#####  Edumarshal App 🎓
+A comprehensive administrative app designed to streamline student attendance tracking, document management, timetable scheduling, and more for educational institutions.
 
+### Overview
+Edumarshal is an all-in-one solution for educational institutions to manage key administrative tasks efficiently. With a focus on attendance management, this app allows teachers to mark, track, and analyze student attendance while providing additional features like document management, timetable generation, and real-time communication.
 
-A new Flutter project.
+# Key Objectives:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Project Description-We are making an Edumarshal App for college students and faculty for them to keep a track of their attendance,timetable and many more.
-
-The team consists of :
-            Vidhi Gupta- Overall Attendance,Splash Screen
-            Anshika Singh -Subject wise Attendance, Navbar
-            Rahul Yadav- Faculty Attendance,Login
-            Srishti Kaura- Home Screen(Student portal)
-
+-Simplify attendance management with real-time updates.
+-Provide an intuitive platform for managing documents, schedules, and events.
+-Facilitate communication between teachers, students, and administrators.
